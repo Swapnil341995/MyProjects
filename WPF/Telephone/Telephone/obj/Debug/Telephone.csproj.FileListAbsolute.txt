@@ -1,0 +1,10 @@
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\bin\Debug\Telephone.exe.config
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\bin\Debug\Telephone.exe
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\bin\Debug\Telephone.pdb
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.csprojAssemblyReference.cache
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.cache
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.exe
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.pdb
+C:\Users\Nikhil Bharude\Swapnil Bharude\Csharp\Telephone\Telephone\Telephone\obj\Debug\Telephone.Phone.resources
